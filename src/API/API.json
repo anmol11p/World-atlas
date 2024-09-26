@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "interestingFact": "Japan is home to more than 6,800 islands."
+    },
+    {
+      "id": 2,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38250000,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 213000000,
+      "interestingFact": "Brazil is the only country in South America where Portuguese is the official language."
+    },
+    {
+      "id": 4,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1417000000,
+      "interestingFact": "India is the largest democracy in the world."
+    },
+    {
+      "id": 5,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFact": "Australia is the only continent covered by a single country."
+    },
+    {
+      "id": 6,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83700000,
+      "interestingFact": "Germany is home to over 20,000 castles."
+    },
+    {
+      "id": 7,
+      "countryName": "Kenya",
+      "capital": "Nairobi",
+      "population": 55000000,
+      "interestingFact": "Kenya is known as the cradle of humanity due to many early human fossils found there."
+    },
+    {
+      "id": 8,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 109500000,
+      "interestingFact": "Egypt is home to one of the world’s oldest civilizations, dating back over 5,000 years."
+    },
+    {
+      "id": 9,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128900000,
+      "interestingFact": "Mexico introduced chocolate, chilies, and corn to the world."
+    },
+    {
+      "id": 10,
+      "countryName": "Norway",
+      "capital": "Oslo",
+      "population": 5400000,
+      "interestingFact": "Norway is home to the Svalbard Global Seed Vault, a storage facility for seeds to protect global crop diversity."
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+[{
+    "icon":"FaLocationDot" ,
+    "title":"Find Us" ,
+    "details": "Bareilly,UttarPradesh"
+},
+
+{
+    "icon":"IoCall" ,
+    "title":"Call Us" ,
+    "details": "+91 9548223411"
+},
+{
+    "icon":"BiLogoGmail" ,
+    "title":"Mail Us" ,
+    "details": "Pandayanmol6@gmail.com"
+}
+]
